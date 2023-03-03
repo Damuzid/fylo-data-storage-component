@@ -12,8 +12,6 @@
 Solution for a challenge from [frontendmentor.io](https://www.frontendmentor.io/)
 </div>
 
-
-
 ## About The Project
 
 This component has some interesting CSS challenges in the design. If you're looking to test your CSS skills, this will be a great project for you!

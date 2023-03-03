@@ -1,5 +1,5 @@
 <h1 align="center">Fylo data storage component</h1>
-![Fylo data storage component](https://github.com/Damuzid/fylo-data-storage-component/blob/main/images/desktop-preview1.png)
+![Fylo data storage component](../images/desktop-preview1.png)
 
 
 

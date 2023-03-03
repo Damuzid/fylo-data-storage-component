@@ -7,7 +7,7 @@
 <div align="center">
 
 [Live](https://damuzid.github.io/fylo-data-storage-component/)
-| [Solution]()
+| [Solution](https://www.frontendmentor.io/solutions/responsive-fylo-data-storage-component-made-with-flexbox-LSJSdKcrj1)
 | [Challenge](https://www.frontendmentor.io/challenges/fylo-data-storage-component-1dZPRbV5n)
 
 Solution for a challenge from [frontendmentor.io](https://www.frontendmentor.io/)
